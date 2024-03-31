@@ -3,6 +3,7 @@ Classification of Danceability Report
 
 Overview
 --------
+![Screenshot 2024-03-30 at 22 23 47](https://github.com/kavya2693/classification_danceability/assets/127579722/a3716af7-c6eb-44b0-9c29-a3470b81d243)
 
 This project focuses on the classification of danceability in music tracks, employing a dataset of 18,000 songs featuring attributes like tempo, energy, valence, loudness, speechiness, and acousticness. Utilizing Google Cloud Platform, BigQuery, and Google Cloud Storage, this study integrates cloud technologies for efficient data handling, analysis, and model training, demonstrating the cloud's pivotal role in managing and processing large datasets.
 
@@ -17,6 +18,8 @@ Technologies and Tools Used
 
 Data Collection and Preparation
 -------------------------------
+![Screenshot 2024-03-30 at 22 28 29](https://github.com/kavya2693/classification_danceability/assets/127579722/abfe519b-d072-44fe-91c1-f0ff5dc59ff8)
+
 
 -   The dataset, containing various track features, was sourced and uploaded to Google Cloud Storage, followed by integration with BigQuery for in-depth analysis and model training.
 -   Data integrity checks, type verification, and exploratory analysis, including statistical summaries and visualization (scatter plots, histograms), were conducted to understand data distribution and identify outliers.
